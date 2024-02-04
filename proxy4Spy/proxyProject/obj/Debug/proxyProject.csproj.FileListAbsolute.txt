@@ -1,0 +1,11 @@
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.csproj.AssemblyReference.cache
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.csproj.SuggestedBindingRedirects.cache
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.Form1.resources
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.Properties.Resources.resources
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.csproj.GenerateResource.cache
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.csproj.CoreCompileInputs.cache
+D:\test\proxyProject\proxyProject\bin\Debug\proxyProject.exe.config
+D:\test\proxyProject\proxyProject\bin\Debug\proxyProject.exe
+D:\test\proxyProject\proxyProject\bin\Debug\proxyProject.pdb
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.exe
+D:\test\proxyProject\proxyProject\obj\Debug\proxyProject.pdb
